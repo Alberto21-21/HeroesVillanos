@@ -1,0 +1,33 @@
+INFO:root:Gestion creada correctamente
+INFO:root:Gestion creada correctamente
+INFO:root:Gestion creada correctamente
+INFO:root:Gestion creada correctamente
+INFO:root:Gestion creada correctamente
+INFO:root:Gestion creada correctamente
+INFO:root:Personaje agregado correctamente 1 Superman
+INFO:root:Personaje agregado correctamente 2 Batman
+INFO:root:Personaje agregado correctamente 3 Wonder Woman
+INFO:root:Personaje agregado correctamente 4 Joker
+INFO:root:Personaje agregado correctamente 5 Lex Luthor
+INFO:root:Personaje agregado correctamente 6 Cheetah
+INFO:root:Busqueda por nombre Batman realizada correctamente. Se han encontrado 1 resultados.
+INFO:root:Gestion creada correctamente
+INFO:root:Personaje agregado correctamente 1 Superman
+INFO:root:Personaje agregado correctamente 2 Batman
+INFO:root:Personaje agregado correctamente 3 Wonder Woman
+INFO:root:Personaje agregado correctamente 4 Joker
+INFO:root:Personaje agregado correctamente 5 Lex Luthor
+INFO:root:Personaje agregado correctamente 6 Cheetah
+INFO:root:Busqueda por nombre Batman realizada correctamente. Se han encontrado 1 resultados.
+INFO:root:Gestion creada correctamente
+INFO:root:Personaje agregado correctamente 1 Superman
+INFO:root:Personaje agregado correctamente 2 Batman
+INFO:root:Personaje agregado correctamente 3 Wonder Woman
+INFO:root:Personaje agregado correctamente 4 Joker
+INFO:root:Personaje agregado correctamente 5 Lex Luthor
+INFO:root:Personaje agregado correctamente 6 Cheetah
+INFO:root:Busqueda por nombre Batman realizada correctamente. Se han encontrado 1 resultados.
+INFO:root:Busqueda por gitgod mayor a 50 realizada correctamente. Se han encontrado 2 resultados.
+INFO:root:Emparejamiento aleatorio realizado correctamente entre Batman y Cheetah. Diferencia de puntuacion: 0
+INFO:root:Emparejamiento aleatorio realizado correctamente entre Superman y Joker. Diferencia de puntuacion: 0
+INFO:root:Emparejamiento aleatorio realizado correctamente entre Superman y Lex Luthor. Diferencia de puntuacion: 0
